@@ -1,6 +1,8 @@
-# Slovak Open 2021 - Soccer Sim
+# Virtuálny futbal @ RoboCupJunior Slovensko 2021
 
-https://robocupjuniortc.github.io/rcj-soccer-sim/
+[Wiki stránka](https://wiki.robotika.sk/robowiki/index.php?title=RoboCup_Junior_Slovensko)
+
+[Simulátor](https://robocupjuniortc.github.io/rcj-soccer-sim/)
 
 ## Výsledky
 
