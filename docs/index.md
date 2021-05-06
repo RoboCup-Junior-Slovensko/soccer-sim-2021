@@ -1,5 +1,6 @@
 # Slovak Open 2021 - Soccer Sim
 
+https://robocupjuniortc.github.io/rcj-soccer-sim/
 
 ## Zápasy
 
