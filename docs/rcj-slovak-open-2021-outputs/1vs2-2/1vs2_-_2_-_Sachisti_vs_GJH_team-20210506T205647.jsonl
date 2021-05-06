@@ -1,66 +1,67 @@
-{"datetime": "2021-05-06T20:56:49.453375Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T20:56:49.469404Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 23, "score_blue": 1, "total_match_time": 600, "team_name_yellow": "GJH_team", "team_name_blue": "Sachisti", "match_id": "1vs2", "halftime": 2}}
-{"datetime": "2021-05-06T20:57:46.427230Z", "matchtime": 29.82399999998347, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 24, "score_blue": 1}}
-{"datetime": "2021-05-06T20:57:53.087739Z", "matchtime": 32.831999999981804, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T20:58:18.445173Z", "matchtime": 43.90399999997567, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 25, "score_blue": 1}}
-{"datetime": "2021-05-06T20:58:25.945630Z", "matchtime": 46.911999999974, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T20:59:20.096948Z", "matchtime": 67.45599999996261, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
-{"datetime": "2021-05-06T20:59:33.207979Z", "matchtime": 72.31999999995992, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T20:59:34.634406Z", "matchtime": 72.83199999995963, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T20:59:48.391216Z", "matchtime": 77.88799999995683, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 26, "score_blue": 1}}
-{"datetime": "2021-05-06T20:59:55.955776Z", "matchtime": 80.89599999995517, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:01:02.723906Z", "matchtime": 104.51199999995674, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:01:16.543089Z", "matchtime": 109.37599999995837, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
-{"datetime": "2021-05-06T21:01:48.230464Z", "matchtime": 120.51199999996209, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 27, "score_blue": 1}}
-{"datetime": "2021-05-06T21:01:57.750712Z", "matchtime": 123.51999999996309, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:02:55.116595Z", "matchtime": 144.38399999997006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
-{"datetime": "2021-05-06T21:03:37.573469Z", "matchtime": 159.4879999999751, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
-{"datetime": "2021-05-06T21:04:03.425383Z", "matchtime": 168.95999999997827, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:04:22.005130Z", "matchtime": 175.29599999998038, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T21:04:31.285208Z", "matchtime": 178.87999999998158, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
-{"datetime": "2021-05-06T21:04:33.124033Z", "matchtime": 179.45599999998177, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 28, "score_blue": 1}}
-{"datetime": "2021-05-06T21:04:42.099531Z", "matchtime": 182.46399999998278, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:05:32.605295Z", "matchtime": 200.70399999998887, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
-{"datetime": "2021-05-06T21:05:40.423258Z", "matchtime": 203.5199999999898, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
-{"datetime": "2021-05-06T21:06:00.610202Z", "matchtime": 210.6879999999922, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T21:06:21.007351Z", "matchtime": 218.62399999999485, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
-{"datetime": "2021-05-06T21:07:04.576709Z", "matchtime": 234.17600000000004, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
-{"datetime": "2021-05-06T21:07:12.840713Z", "matchtime": 236.92800000000096, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T21:07:26.555300Z", "matchtime": 241.7920000000026, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
-{"datetime": "2021-05-06T21:08:17.642453Z", "matchtime": 259.5200000000085, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:08:17.642999Z", "matchtime": 259.5200000000085, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T21:08:27.495353Z", "matchtime": 263.1680000000097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
-{"datetime": "2021-05-06T21:09:27.222186Z", "matchtime": 284.6080000000169, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:09:31.674493Z", "matchtime": 286.0800000000174, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T21:10:10.094103Z", "matchtime": 300.41600000002217, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
-{"datetime": "2021-05-06T21:11:02.626565Z", "matchtime": 319.55200000002856, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 29, "score_blue": 1}}
-{"datetime": "2021-05-06T21:11:11.872962Z", "matchtime": 322.56000000002956, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:12:27.900905Z", "matchtime": 349.6320000000361, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
-{"datetime": "2021-05-06T21:12:32.956435Z", "matchtime": 351.1040000000359, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T21:12:49.016386Z", "matchtime": 356.7360000000353, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:13:01.941438Z", "matchtime": 361.0880000000348, "event": "GOAL", "payload": {"team_name": "Sachisti", "score_yellow": 29, "score_blue": 2}}
-{"datetime": "2021-05-06T21:13:10.334433Z", "matchtime": 364.09600000003445, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
-{"datetime": "2021-05-06T21:13:23.049902Z", "matchtime": 368.640000000034, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 30, "score_blue": 2}}
-{"datetime": "2021-05-06T21:13:31.729770Z", "matchtime": 371.6480000000337, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:13:55.456041Z", "matchtime": 380.7360000000326, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 31, "score_blue": 2}}
-{"datetime": "2021-05-06T21:14:03.598241Z", "matchtime": 383.7440000000323, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:15:41.609915Z", "matchtime": 420.0960000000283, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:15:47.387408Z", "matchtime": 422.20800000002805, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T21:15:58.057245Z", "matchtime": 426.3040000000276, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
-{"datetime": "2021-05-06T21:16:27.295332Z", "matchtime": 437.18400000002646, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 32, "score_blue": 2}}
-{"datetime": "2021-05-06T21:16:36.299380Z", "matchtime": 440.1920000000261, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:17:04.895311Z", "matchtime": 450.176000000025, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 33, "score_blue": 2}}
-{"datetime": "2021-05-06T21:17:13.249011Z", "matchtime": 453.18400000002464, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:18:06.054602Z", "matchtime": 471.9360000000226, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:18:41.293322Z", "matchtime": 484.54400000002124, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2021-05-06T21:18:54.412375Z", "matchtime": 489.28000000002066, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
-{"datetime": "2021-05-06T21:18:55.200515Z", "matchtime": 489.53600000002064, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:18:57.097744Z", "matchtime": 490.4320000000206, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
-{"datetime": "2021-05-06T21:19:36.700253Z", "matchtime": 504.768000000019, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:20:18.281006Z", "matchtime": 519.8720000000174, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:20:29.611774Z", "matchtime": 523.9040000000168, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
-{"datetime": "2021-05-06T21:22:00.543226Z", "matchtime": 556.8640000000156, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 34, "score_blue": 2}}
-{"datetime": "2021-05-06T21:22:09.974296Z", "matchtime": 559.8720000000155, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
-{"datetime": "2021-05-06T21:22:53.110471Z", "matchtime": 574.9760000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
-{"datetime": "2021-05-06T21:24:01.225327Z", "matchtime": 599.8080000000156, "event": "GOAL", "payload": {"team_name": "Sachisti", "score_yellow": 34, "score_blue": 3}}
-{"datetime": "2021-05-06T21:24:01.732868Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 34, "score_blue": 3, "team_name_yellow": "GJH_team", "team_name_blue": "Sachisti"}}
+[
+{"datetime": "2021-05-06T20:56:49.453375Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T20:56:49.469404Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 23, "score_blue": 1, "total_match_time": 600, "team_name_yellow": "GJH_team", "team_name_blue": "Sachisti", "match_id": "1vs2", "halftime": 2}},
+{"datetime": "2021-05-06T20:57:46.427230Z", "matchtime": 29.82399999998347, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 24, "score_blue": 1}},
+{"datetime": "2021-05-06T20:57:53.087739Z", "matchtime": 32.831999999981804, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T20:58:18.445173Z", "matchtime": 43.90399999997567, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 25, "score_blue": 1}},
+{"datetime": "2021-05-06T20:58:25.945630Z", "matchtime": 46.911999999974, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T20:59:20.096948Z", "matchtime": 67.45599999996261, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}},
+{"datetime": "2021-05-06T20:59:33.207979Z", "matchtime": 72.31999999995992, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T20:59:34.634406Z", "matchtime": 72.83199999995963, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T20:59:48.391216Z", "matchtime": 77.88799999995683, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 26, "score_blue": 1}},
+{"datetime": "2021-05-06T20:59:55.955776Z", "matchtime": 80.89599999995517, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:01:02.723906Z", "matchtime": 104.51199999995674, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:01:16.543089Z", "matchtime": 109.37599999995837, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}},
+{"datetime": "2021-05-06T21:01:48.230464Z", "matchtime": 120.51199999996209, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 27, "score_blue": 1}},
+{"datetime": "2021-05-06T21:01:57.750712Z", "matchtime": 123.51999999996309, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:02:55.116595Z", "matchtime": 144.38399999997006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}},
+{"datetime": "2021-05-06T21:03:37.573469Z", "matchtime": 159.4879999999751, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}},
+{"datetime": "2021-05-06T21:04:03.425383Z", "matchtime": 168.95999999997827, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:04:22.005130Z", "matchtime": 175.29599999998038, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T21:04:31.285208Z", "matchtime": 178.87999999998158, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}},
+{"datetime": "2021-05-06T21:04:33.124033Z", "matchtime": 179.45599999998177, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 28, "score_blue": 1}},
+{"datetime": "2021-05-06T21:04:42.099531Z", "matchtime": 182.46399999998278, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:05:32.605295Z", "matchtime": 200.70399999998887, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}},
+{"datetime": "2021-05-06T21:05:40.423258Z", "matchtime": 203.5199999999898, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}},
+{"datetime": "2021-05-06T21:06:00.610202Z", "matchtime": 210.6879999999922, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T21:06:21.007351Z", "matchtime": 218.62399999999485, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}},
+{"datetime": "2021-05-06T21:07:04.576709Z", "matchtime": 234.17600000000004, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}},
+{"datetime": "2021-05-06T21:07:12.840713Z", "matchtime": 236.92800000000096, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T21:07:26.555300Z", "matchtime": 241.7920000000026, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}},
+{"datetime": "2021-05-06T21:08:17.642453Z", "matchtime": 259.5200000000085, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:08:17.642999Z", "matchtime": 259.5200000000085, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T21:08:27.495353Z", "matchtime": 263.1680000000097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}},
+{"datetime": "2021-05-06T21:09:27.222186Z", "matchtime": 284.6080000000169, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:09:31.674493Z", "matchtime": 286.0800000000174, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T21:10:10.094103Z", "matchtime": 300.41600000002217, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}},
+{"datetime": "2021-05-06T21:11:02.626565Z", "matchtime": 319.55200000002856, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 29, "score_blue": 1}},
+{"datetime": "2021-05-06T21:11:11.872962Z", "matchtime": 322.56000000002956, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:12:27.900905Z", "matchtime": 349.6320000000361, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}},
+{"datetime": "2021-05-06T21:12:32.956435Z", "matchtime": 351.1040000000359, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T21:12:49.016386Z", "matchtime": 356.7360000000353, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:13:01.941438Z", "matchtime": 361.0880000000348, "event": "GOAL", "payload": {"team_name": "Sachisti", "score_yellow": 29, "score_blue": 2}},
+{"datetime": "2021-05-06T21:13:10.334433Z", "matchtime": 364.09600000003445, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}},
+{"datetime": "2021-05-06T21:13:23.049902Z", "matchtime": 368.640000000034, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 30, "score_blue": 2}},
+{"datetime": "2021-05-06T21:13:31.729770Z", "matchtime": 371.6480000000337, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:13:55.456041Z", "matchtime": 380.7360000000326, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 31, "score_blue": 2}},
+{"datetime": "2021-05-06T21:14:03.598241Z", "matchtime": 383.7440000000323, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:15:41.609915Z", "matchtime": 420.0960000000283, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:15:47.387408Z", "matchtime": 422.20800000002805, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T21:15:58.057245Z", "matchtime": 426.3040000000276, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}},
+{"datetime": "2021-05-06T21:16:27.295332Z", "matchtime": 437.18400000002646, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 32, "score_blue": 2}},
+{"datetime": "2021-05-06T21:16:36.299380Z", "matchtime": 440.1920000000261, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:17:04.895311Z", "matchtime": 450.176000000025, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 33, "score_blue": 2}},
+{"datetime": "2021-05-06T21:17:13.249011Z", "matchtime": 453.18400000002464, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:18:06.054602Z", "matchtime": 471.9360000000226, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:18:41.293322Z", "matchtime": 484.54400000002124, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}},
+{"datetime": "2021-05-06T21:18:54.412375Z", "matchtime": 489.28000000002066, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}},
+{"datetime": "2021-05-06T21:18:55.200515Z", "matchtime": 489.53600000002064, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:18:57.097744Z", "matchtime": 490.4320000000206, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}},
+{"datetime": "2021-05-06T21:19:36.700253Z", "matchtime": 504.768000000019, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:20:18.281006Z", "matchtime": 519.8720000000174, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:20:29.611774Z", "matchtime": 523.9040000000168, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}},
+{"datetime": "2021-05-06T21:22:00.543226Z", "matchtime": 556.8640000000156, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 34, "score_blue": 2}},
+{"datetime": "2021-05-06T21:22:09.974296Z", "matchtime": 559.8720000000155, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}},
+{"datetime": "2021-05-06T21:22:53.110471Z", "matchtime": 574.9760000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}},
+{"datetime": "2021-05-06T21:24:01.225327Z", "matchtime": 599.8080000000156, "event": "GOAL", "payload": {"team_name": "Sachisti", "score_yellow": 34, "score_blue": 3}},
+{"datetime": "2021-05-06T21:24:01.732868Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 34, "score_blue": 3, "team_name_yellow": "GJH_team", "team_name_blue": "Sachisti"}}]
