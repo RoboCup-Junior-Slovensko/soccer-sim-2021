@@ -29,10 +29,10 @@
 - [Prvý polčas](rcj-slovak-open-2021-outputs/2vs4-1/2vs4_-_1_-_Sachisti_vs_XLC-Innovation-20210506T233335_new.html) (2 : 3)
 - [Druhý polčas](rcj-slovak-open-2021-outputs/2vs4-2/2vs4_-_2_-_XLC-Innovation_vs_Sachisti-20210506T233923_new.html) (0 : 5)
 
-## Sachisti vs. Griffins (6 : 12)
+### Sachisti vs. Griffins (6 : 12)
 - [Prvý polčas](rcj-slovak-open-2021-outputs/2vs3-1/2vs3_-_1_-_Sachisti_vs_Griffins-20210506T232251_new.html) (3 : 10)
 - [Druhý polčas](rcj-slovak-open-2021-outputs/2vs3-2/2vs3_-_2_-_Griffins_vs_Sachisti-20210506T232811_new.html) (3 : 2)
 
-## GJH_team vs. XLC-Innovation (2 : 4)
+### GJH_team vs. XLC-Innovation (2 : 4)
 - [Prvý polčas](rcj-slovak-open-2021-outputs/1vs4-1/1vs4_-_1_-_GJH_team_vs_XLC-Innovation-20210506T231153_new.html) (1 : 2)
 - [Druhý polčas](rcj-slovak-open-2021-outputs/2vs3-2/2vs3_-_2_-_Griffins_vs_Sachisti-20210506T232811_new.html) (1 : 2)
