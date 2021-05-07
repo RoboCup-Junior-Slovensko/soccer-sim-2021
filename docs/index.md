@@ -8,8 +8,8 @@
 
 | Tím            | W | D | L | Pts. |
 |----------------|---|---|---|------|
-| GJH_team       | 1 | 0 | 1 |  3   |
-| Sachisti       | 0 | 0 | 0 |  0   |
+| GJH_team       | 1 | 0 | 0 |  3   |
+| Sachisti       | 0 | 0 | 1 |  0   |
 | Griffins       | 0 | 0 | 1 |  0   |
 | XLC-Innovation | 1 | 0 | 0 |  3   |
 
