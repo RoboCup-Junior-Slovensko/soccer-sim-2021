@@ -41,4 +41,4 @@
 ### GJH_team vs. XLC-Innovation
 - **Konecný výsledok:** (2 : 4)
 - [Prvý polčas](rcj-slovak-open-2021-outputs/1vs4-1/1vs4_-_1_-_GJH_team_vs_XLC-Innovation-20210506T231153_new.html) (1 : 2)
-- [Druhý polčas](rcj-slovak-open-2021-outputs/2vs3-2/2vs3_-_2_-_Griffins_vs_Sachisti-20210506T232811_new.html) (1 : 2)
+- [Druhý polčas](rcj-slovak-open-2021-outputs/1vs4-2/1vs4_-_2_-_XLC-Innovation_vs_GJH_team-20210506T231717_new.html) (1 : 2)
